@@ -1,11 +1,13 @@
 # nano
 
+
+## Test App for build and release 
+
+
+
+
+For build and release testing
+
 ScoreKeeper app
 
-Android Surf Contest Score Card app.
 
-PR1
-Pr2
-Pr3
-Pr4
-Pr5
